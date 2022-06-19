@@ -145,3 +145,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 Powered by Typescipt and vercel. Code licensed under [MIT License](https://raw.githubusercontent.com/satyawikananda/berita-indo-api/main/LICENSE?token=AH44ZFF4GHAMNS4WIL4FCC3ADZ4F6).
 # BeritaApp
+# berita
